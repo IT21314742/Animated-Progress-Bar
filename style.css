@@ -54,5 +54,5 @@
 }
 .css{
     background: #cddc39;
-    animation: css 1s;
+    animation: css 1s linear;
 }
