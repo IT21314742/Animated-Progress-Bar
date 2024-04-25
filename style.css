@@ -29,12 +29,14 @@
     height: 10px;
     border-radius: 5px;
 }
-.progress-bar div{
+
+.progress-bar div {
     height: 10px;
     border-radius: 5px;
     width: 0%;
 }
-.progress-bar div span{
+
+.progress-bar div span {
     height: 40px;
     width: 40px;
     border-radius: 50%;
