@@ -48,15 +48,18 @@
     display: flex;
     align-items: center;
 }
-.html{
+
+.html {
     background: #e91e63;
     animation: html 1s linear forwards;
 }
-.css{
+
+.css {
     background: #cddc39;
     animation: css 1s linear forwards;
 }
-.javascript{
+
+.javascript {
     background: #00bcd4;
     animation: javascript 1s linear forwards;
 }
