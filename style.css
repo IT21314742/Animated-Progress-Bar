@@ -63,14 +63,17 @@
     background: #00bcd4;
     animation: javascript 1s linear forwards;
 }
-.python{
+
+.python {
     background: #ffeb3b;
     animation: python 1s linear forwards;
 }
-.react{
+
+.react {
     background: #9c27b0;
     animation: react 1s linear forwards;
 }
-.html .span{
+
+.html .span {
     border: 1px solid #e91e63;
 }
