@@ -69,5 +69,5 @@
 }
 .react{
     background: #9c27b0;
-    animation: react 1s ;
+    animation: react 1s linear;
 }
