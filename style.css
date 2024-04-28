@@ -99,8 +99,9 @@
         width: 86%;
     }
 }
-@keyframes css{
-    100%{
+
+@keyframes css {
+    100% {
         width: 74%;
     }
 }
