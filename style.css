@@ -77,12 +77,15 @@
 .html .span {
     border: 1px solid #e91e63;
 }
-.css .span{
+
+.css .span {
     border: 1px solid #cddc39;
 }
-.javascript span{
+
+.javascript span {
     border: 1px solid #00bcd4;
 }
-.python span{
+
+.python span {
     border: 1px solid #ffeb3b;
 }
