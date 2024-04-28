@@ -93,8 +93,9 @@
 .react span {
     border: 1px solid #9c27b0;
 }
-@keyframes html{
-    100%{
+
+@keyframes html {
+    100% {
         width: 86%;
     }
 }
