@@ -105,8 +105,9 @@
         width: 74%;
     }
 }
-@keyframes javascript{
-    100%{
+
+@keyframes javascript {
+    100% {
         width: 61%;
     }
 }
