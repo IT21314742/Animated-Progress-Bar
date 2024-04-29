@@ -111,8 +111,9 @@
         width: 61%;
     }
 }
-@keyframes python{
-    100%{
+
+@keyframes python {
+    100% {
         width: 52%;
     }
 }
